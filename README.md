@@ -1,7 +1,4 @@
-### Hi I'm Jesús ([buenourbano][website])
-
-
-## What can I tell you
+### About me
 
 - 🔭 I’m currently working as a FR consultant in Madrid
 - 🌱 I’m tried to learn about ML & AI applied to finance
