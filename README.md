@@ -8,7 +8,7 @@
 - ⚡ I also contribute to personal projects as @Thefluxions and formerly @TheOpenBacteriaProject
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/aytoeru)
+[<img src="https://spotify-now-playing.buenourbano.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/aytoeru)
 
 ### Connect with me:
 
