@@ -15,7 +15,7 @@
 [<img align="left" alt="buenourbano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="buenourbano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://buenourbano.github.com
+[website]: https://buenourbano.github.io
 [twitter]: https://twitter.com/buenourbano
 [instagram]: https://instagram.com/buenourbano_
 [linkedin]: https://linkedin.com/in/buenourbano
