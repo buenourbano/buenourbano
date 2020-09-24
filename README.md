@@ -5,7 +5,6 @@
 - ⚡ I also contribute to personal projects as @Thefluxions and formerly @TheOpenBacteriaProject
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.buenourbano.vercel.app/api/spotify-playing" alt="buenourbano Spotify Playing" width="350" />](https://open.spotify.com/user/aytoeru?si=2HH2QeLgTVyXR5Tnmeubvg)
 
 [![Spotify](https://spotify-now-playing.buenourbano.vercel.app/api/spotify)](https://open.spotify.com/user/aytoeru)
 
