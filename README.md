@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a FR consultant in Madrid
 - 🌱 I’m trying to learn about ML & AI applied to finance
-- ⚡ I also contribute to personal projects as ![@TheFluxions](https://thefluxions.github.io) and formerly ![@TheOpenBacteriaProject](https://theopenbacteriaproject.github.io)
+- ⚡ I also contribute to personal projects as [@TheFluxions](https://thefluxions.github.io) and formerly [@TheOpenBacteriaProject](https://theopenbacteriaproject.github.io)
 
 ### Spotify Playing 🎧
 
